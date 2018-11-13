@@ -1,5 +1,7 @@
 # bdp.py
-# calculate bandwidth delay product of a link
+# calculate bandwidth delay product of a link using bits/sec and seconds
+# seconds can be entered as decimals as they will be read in as a floating point variable
+
 
 bandwidth = int(input("Enter the link bandwidth in bits/sec: "))
 
